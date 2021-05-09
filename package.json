@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "someTrying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcagataykaban/blockchain.git"
+  },
+  "author": "cagatay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcagataykaban/blockchain/issues"
+  },
+  "homepage": "https://github.com/mcagataykaban/blockchain#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4",
+    "express": "^4.17.1"
+  }
+}
